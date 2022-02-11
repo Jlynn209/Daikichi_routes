@@ -1,0 +1,13 @@
+package com.jeremy.daikichi_routes;
+
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/daikichi")
+public class daikichiController {
+	@RequestMapping("/")
+	public String Welcome() {
+		return "Welcome";
+	}
+}

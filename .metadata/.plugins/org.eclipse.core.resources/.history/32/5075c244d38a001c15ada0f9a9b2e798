@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="daikichi_routes">
+        <property name="context-root" value="daikichi_routes"/>
+        <property name="java-output-path" value="/daikichi_routes/target/classes"/>
+    </wb-module>
+</project-modules>
