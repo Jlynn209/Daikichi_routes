@@ -21,3 +21,4 @@ public class daikichiController {
 		return "Tomorrow, an opportunity will arise, so be sure to open to new ideas!";
 	}
 }
+// hello
